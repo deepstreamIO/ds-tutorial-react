@@ -1,4 +1,6 @@
 # ds-tutorial-react
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/deepstreamIO/ds-tutorial-react.svg)](https://greenkeeper.io/)
 Examples of how to use **deepstream-react**. Please find more details
 at https://deepstream.io/tutorials/integrations/frontend-react/
 
